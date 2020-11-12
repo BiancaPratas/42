@@ -1,0 +1,5 @@
+Credentials cache: API:AB61E210-ED5F-47C5-AC60-2E4BD7E8AAB6
+        Principal: bpratas@42LISBOA.COM
+
+  Issued                Expires               Principal
+Oct 21 19:39:37 2020  Oct 22 05:39:37 2020  krbtgt/42LISBOA.COM@42LISBOA.COM
